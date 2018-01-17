@@ -1,0 +1,102 @@
+.com_m_job_list{width:100%; float:left; margin-top:10px;}
+.job_list_box{width: 100%;border:1px solid #ddd;float:left;position:relative;}
+.job_list_box:hover{ background:#f8f8f8}
+.job_list_checkboxbox{width:15px;padding:70px 5px 65px 5px; background:#f8f8f8; float:left}
+.job_list_box_operation{width:100px; float:right; margin-top:30px; line-height:26px;}
+.job_list_box_operation a{ margin-left:10px;color:#456dab}
+.job_list_list{width:831px; border-bottom:1px solid #ddd;float:left; padding:8px 10px;border-top:none; position:relative}
+.com_m_job_lis_xz{width:13px;height:13px; float:left;overflow:hidden; margin-top:8px; margin-right:5px;}
+.com_job_list_check{width:13px;height:13px; overflow:hidden; display:block}
+.com_m_job_list_jobname{ float:left}
+.com_m_job_list_jobname_a{ font-size:16px;}
+.com_m_job_list_jobfw{ display:inline-block;border:1px solid #f60;color:#f60; padding:0px 5px; line-height:18px; margin-right:10px;}
+.com_m_job_list_jobdate{color:#97999b; float:left;}
+.job_list_list_left_name{color:#97999b}
+.com_m_job_list_t{width:563px;  float:left;color:#726868;}
+.job_list_box_left{width:560px; float:left; padding:10px 0 0 10px; line-height:30px;color:#626b77;}
+.job_list_list_left{width:560px; float:left; line-height:30px;color:#626b77;}
+.com_m_job_lis_j{width:100%; float:left}
+.job_list_list_con{width:135px;height:48px; float:left; padding-left:10px; }
+.job_list_list_con_yp_n{width:66px;height:48px; background:#f9f9f9; float:left;border-right:1px solid #fff; text-align:center;color:#626b77}
+.job_list_list_left_u{ font-size:14px; font-weight:normal}
+.job_list_list_con_yp_n strong{ display:block; font-size:16px; padding:3px 0}
+.job_list_list_com_tg{width:170px; float:left;padding-left:10px; padding-right:10px; }
+.com_m_job_list_cz{width:60px; text-align:center; float:right;margin-right:8px;}
+.job_list_list_com_tg_name{ padding-bottom:8px;color:#626b77; font-size:12px;}
+.job_list_list_com_sx{width:115px; float:left}
+.job_list_list_com_sx_gm{color:#f60; text-decoration:underline}
+.job_list_extension{ float:left;width:110px; padding-left:20px; padding-top:25px;}
+.job_list_extension_box{border:1px solid #ddd; background:#fff;color:#f60;width:75px;height:24px; line-height:24px; padding-left:10px; background:url(../images/com_select.jpg) no-repeat 65px center; position:relative; cursor:pointer}
+.job_list_extension_box_line{width:87px;height:1px; line-height:1px; overflow:hidden; background:#fff; position:absolute;left:0px;top:-1px; z-index:10}
+.job_list_extension_box_list{width:170px; position:absolute;left:-1px;top:24px; background:#fff;border:1px solid #ddd;text-align:center; padding-bottom:10px; z-index:100}
+.job_list_extension_box_list li{width:70px;height:26px; line-height:26px;float:left; margin-top:8px; margin-left:8px;}
+.job_list_operation{width:140px;padding-top:10px; float:right; line-height:26px;}
+.job_list_operation a{ margin-left:10px;color:#456dab}
+.job_share{float:left;margin-top:5px;height:20px; line-height:20px;color:#999; cursor:pointer; background:url(../images/com_fr.png) no-repeat left center ; padding-left:22px; display:inline-block; margin-left:20px;}
+.com_Release_jobxg{color:#456dab; text-decoration:underline;}
+.com_m_job_lis_zt{ display:inline-block; padding:0px 2px; color:#f60; }
+.com_m_job_lis_fb{display:inline-block; padding:0px 2px;}
+.com_m_job_lis_hf{color:#456dab;  margin-right:5px;}
+.com_tit{height:43px;line-height:43px;}
+.com_tit_rt{margin-top:5px;margin-right:15px;width:80px;height:30px;text-align:center;line-height:30px;background:#f60;}
+.com_tit_rt a{color:#fff;}
+/*悬赏职位记录临时样式*/
+
+
+.m_lt_ct{padding: 0px;width: 100%;}
+.m_lt_ct_tit{color:#1b1919;font-size:16px;font-weight:bold;}
+.m_lt_ct_t{margin-top:20px;width:825px;background:#eee;padding:0px 20px;height:35px;line-height:35px;font-size:14px;color:#080606;}
+.m_lt_ct_li{padding:18px 20px;width:825px;line-height:28px;border-bottom:1px solid #eee;}
+.m_lt_ct_li_nm a{color:#456dab;}
+.m_lt_ct_li_h{color:#6f6868;}
+.m_lt_ct_li_r{color:#f51010;}
+.m_lt_ct_li_z{color:#bbb7b7;}
+.m_lt_ct_li_b{color:#96999d;}
+.m_lt_ct_li_b a{color:#456dab;cursor:pointer;}
+.m_lt_ct_li_ff{color:#3ba109;}
+.m_lt_ct_li_j{color:#73a365;}
+.m_lt_ct_li_b i.m_lt_ct_li_my{color:#f51010;}
+.m_xs{width: 100%;border:1px solid #e9e9e9;margin-top:20px;padding:10px 0;}
+.m_xs ul li{float:left;padding:2px 13px; margin-left:10px;border-radius:20px;}
+.m_xs ul li a{color:#3e3737;font-size:14px;display:inline-block;}
+.m_xs ul li.m_xs_cur{color:#fff;background:#ff7300;}
+.m_xs ul li.m_xs_cur a{color:#fff;display:inline-block;}
+.m_xs ul li a.hr_subMetx_cur{color:#fff;}
+
+.m_xs_bx{border:1px solid #e9e9e9;width: 100%;margin-top:20px;}
+.m_xs_bx:hover{ background:#f8f8f8}
+.m_xs_bx_class{padding:15px 0;line-height:30px;width:100%;}
+.m_xs_bx_s_nm{width:280px;}
+.m_xs_bx_s_nm a{font-size:16px;color:#456dab;}
+.m_xs_bx_s_hb{color:#8c9093;width:320px;font-size:12px;}
+.m_xs_bx_s_hb i{color:#ff0030;}
+.m_xs_bx_f{width:650px; padding-left:15px;}
+.m_xs_bx_s{width:100%;}
+.m_xs_bx_x{width:100%;color:#b4b2b2;}
+.m_xs_bx_x_w a{color:#456dab;}
+.m_xs_bx_x_w{width:280px;}
+.m_xs_bx_x_z a{color:#456dab;}
+.m_xs_bx_x_z{width:320px;font-size:12px;color:#8c9093;}
+.m_xs_bx_x_z i{color:#456dab;}
+.m_xs_bx_r_icon{width:15px;height:30px;display:inline-block;background:url(no.png) no-repeat left 8px;}
+.m_xs_bx_r_icon_ok{width:15px;height:30px;display:inline-block;background:url(../images/yes.png) no-repeat left 8px;}
+.m_xs_bx_r span{padding-left:12px;height:15px;}
+.m_xs_bx_r{margin-bottom:10px; padding-right:15px;}
+.m_xs_pr{padding:10px 0px;width:100%;border-top:1px dashed #eee;}
+.m_xs_pr_f{width:520px;color:#96999d; padding-left:15px;}
+.m_xs_pr_f ul li{border-left:1px solid #c5c2c1;padding-left:20px;line-height:40px;position:relative;}
+.m_xs_pr_f ul li i.m_xs_pr_f_icon{position:absolute;top:15px;left:-4px;width:7px;height:7px;border-radius:50px;display:block;background:#c5c2c1;}
+.m_xs_pr_f ul li.m_xs_pr_f_cur i.m_xs_pr_f_icon{background:#ff7300;}
+.m_xs_bx_red{color:#ff7300;}
+.m_xs_pr_r{margin-top:15px;}
+.m_xs_js{padding:0px 10px;height:31px;line-height:31px;color:#fff;background:#ff7400;display:inline-block;text-align:center;}
+.m_xs_jj{padding:0px 10px;height:31px;line-height:31px;color:#fff;background:#5997c0;margin-left:15px;display:inline-block;text-align:center;}
+.m_xs_pr_qur{color:#ff7300;border:1px solid #ff7300;height:26px;line-height:26px;padding:0px 8px;display:inline-block;border-radius:3px;}
+.m_xs_pr_qxx{margin-left:15px;color:#5997c0;border:1px solid #5997c0;height:26px;line-height:26px;padding:0px 8px;display:inline-block;border-radius:3px;}
+.m_xs_js:hover{color:#fff;}
+.m_xs_jj:hover{color:#fff;}
+.m_xs_pr_qxx:hover{color:#5997c0;}
+.info_text{width:220px;height:33px;line-height:33px;border:1px solid #eee;}
+
+
+/*悬赏职位记录临时样式--END*/
